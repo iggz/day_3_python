@@ -105,10 +105,10 @@ Given a height and width, input by the user, print a box consisting of * charact
 
 Print a triangle consisting of * characters like this:
 
-   <!-- * -->
-  <!-- *** -->
- <!-- ***** -->
-<!-- ******* -->
+       *
+      ***
+     *****
+    *******
 
 **Print a Triangle II**
 
